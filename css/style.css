@@ -343,9 +343,9 @@ h2.title span{
     background-repeat: no-repeat;
     left: 0px;
     top: 0px;
-    height: 90%;
+    height: 100%;
     z-index: 2;
-    background-size: cover;
+    background-size: stretch;
     background-position: -40px center, 0px center;
     width: 45%;
 }
