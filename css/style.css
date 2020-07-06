@@ -335,7 +335,7 @@ h2.title span{
 
 .profile-bg {
     background-color: transparent;
-    background: url("../images/profile.jpg");
+    background: url("../images/Profile.jpg");
     position: absolute;
     background-clip: border-box;
     background-attachment: scroll;
