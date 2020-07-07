@@ -922,7 +922,7 @@ background-color: #232323;            border: dashed 1px #4A4A4A;border-radius: 
 
 .socail-link{}
 .socail-link a i{
-	width: 35px;
+	width: 100%;
 	height: 35px;
 	border-radius: 100%;
 	color: #4267B2;
