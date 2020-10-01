@@ -19,7 +19,7 @@ body{
 	border: 0;
 	margin: 0;
 	padding: 0;
-	color: #333333;
+	color: #fcf8f8;
 	font-size: 14px;
 	background: #fff;
 }
@@ -330,6 +330,7 @@ h2.title span{
 	padding: 15px 36px!important;
 }
 #section-profile{
+	
 	background: #232323;
 }
 
